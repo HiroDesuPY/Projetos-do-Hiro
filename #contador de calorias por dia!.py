@@ -64,6 +64,9 @@ for nome, dados in listacomida.items():
      print(f"{nome}: {dados['quantidade']} vez(es) - {dados['calorias']:.2f} kcal")
 
 
+print (listacomida)
+
+
 
 
     
